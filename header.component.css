@@ -1,0 +1,11 @@
+ul{
+    list-style-type: none ;
+}
+li{
+    float: left;
+    padding-right: 25px ;
+}
+li a{
+    color: black;
+    text-decoration:none ;
+}
